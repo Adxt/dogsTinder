@@ -1,0 +1,64 @@
+.navbar-brand{
+    font-size: 32px;
+    
+}
+#title{
+    background-color: #ffadad;
+    padding: 0% 10%;
+}
+.row{
+    padding: 5% 0px;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+}
+.nav-item{
+    font-size: 20px;
+    padding: 0px 5px;
+}
+h1{
+    font-size: 90px;
+}
+.buttn{
+    padding: 5% 0px;
+}
+.down-button{
+    margin: 5% 3% 5% 0;
+}
+.app-img{
+    width: 70%;
+    margin:0px 20px 0px 88px;
+}
+#features{
+    padding: 7% 15%;
+}
+.feat{
+    text-align: center;
+    padding: 4% 0px;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 3rem;
+}
+h3{
+    font-family:'Montserrat';
+}
+#testimonials{
+    padding: 5% 15%;
+    background-color: #7f354f;
+    text-align: center;
+}
+#press{
+    background-color: #7f354f;
+    padding: 2% 8% 5% ;
+}
+.news-icons{
+    width: 23%;
+    padding: 0% 5%;
+    margin-left: 18px;
+}
+.testimonial-img{
+    border-radius: 100%;
+    width: 10%;
+}
